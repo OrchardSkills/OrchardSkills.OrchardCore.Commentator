@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrchardSkills.OrchardCore.Commentator", "OrchardSkills.OrchardCore.Commentator\OrchardSkills.OrchardCore.Commentator.csproj", "{EA791BE5-16A6-42B3-82A0-2BAE3D514560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrchardCore.Commentator", "OrchardSkills.OrchardCore.Commentator\OrchardCore.Commentator.csproj", "{EA791BE5-16A6-42B3-82A0-2BAE3D514560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
