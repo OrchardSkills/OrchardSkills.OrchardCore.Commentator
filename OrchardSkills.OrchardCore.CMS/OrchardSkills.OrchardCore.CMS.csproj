@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OrchardSkills.OrchardCore.Commentator\OrchardCore.Commentator.csproj" />
+    <ProjectReference Include="..\OrchardCore.Commentator\OrchardCore.Commentator.csproj" />
   </ItemGroup>
   
 </Project>

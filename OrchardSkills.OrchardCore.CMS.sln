@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrchardCore.Commentator", "OrchardSkills.OrchardCore.Commentator\OrchardCore.Commentator.csproj", "{EA791BE5-16A6-42B3-82A0-2BAE3D514560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrchardCore.Commentator", "OrchardCore.Commentator\OrchardCore.Commentator.csproj", "{7D9378F9-08AC-4BE8-A5A1-16B19E95052E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,10 @@ Global
 		{188E05C2-5936-4535-AAB4-0A2E407B9365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{188E05C2-5936-4535-AAB4-0A2E407B9365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{188E05C2-5936-4535-AAB4-0A2E407B9365}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EA791BE5-16A6-42B3-82A0-2BAE3D514560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA791BE5-16A6-42B3-82A0-2BAE3D514560}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA791BE5-16A6-42B3-82A0-2BAE3D514560}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA791BE5-16A6-42B3-82A0-2BAE3D514560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9378F9-08AC-4BE8-A5A1-16B19E95052E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9378F9-08AC-4BE8-A5A1-16B19E95052E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9378F9-08AC-4BE8-A5A1-16B19E95052E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9378F9-08AC-4BE8-A5A1-16B19E95052E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
